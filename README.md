@@ -64,6 +64,7 @@ README Topics & Statistics Refreshed
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/parteek1907/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/parteek1907/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3945-digit-frequency-score](https://github.com/parteek1907/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Array
