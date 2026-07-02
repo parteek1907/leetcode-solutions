@@ -75,15 +75,21 @@ README Topics & Statistics Refreshed
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parteek1907/leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/parteek1907/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/parteek1907/leetcode-solutions/tree/master/0066-plus-one) |
 | [3701-compute-alternating-sum](https://github.com/parteek1907/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/parteek1907/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [1108-defanging-an-ip-address](https://github.com/parteek1907/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [3110-score-of-a-string](https://github.com/parteek1907/leetcode-solutions/tree/master/3110-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [3701-compute-alternating-sum](https://github.com/parteek1907/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/parteek1907/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
