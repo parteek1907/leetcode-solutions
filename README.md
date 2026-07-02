@@ -65,6 +65,7 @@ README Topics & Statistics Refreshed
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/parteek1907/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/parteek1907/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/parteek1907/leetcode-solutions/tree/master/0066-plus-one) |
 | [2235-add-two-integers](https://github.com/parteek1907/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/parteek1907/leetcode-solutions/tree/master/2469-convert-the-temperature) |
@@ -92,4 +93,8 @@ README Topics & Statistics Refreshed
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/parteek1907/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/parteek1907/leetcode-solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
