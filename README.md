@@ -80,6 +80,7 @@ README Topics & Statistics Refreshed
 | [0001-two-sum](https://github.com/parteek1907/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/parteek1907/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/parteek1907/leetcode-solutions/tree/master/0066-plus-one) |
+| [1672-richest-customer-wealth](https://github.com/parteek1907/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/parteek1907/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [3701-compute-alternating-sum](https://github.com/parteek1907/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 ## String
@@ -108,4 +109,8 @@ README Topics & Statistics Refreshed
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/parteek1907/leetcode-solutions/tree/master/0069-sqrtx) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/parteek1907/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
