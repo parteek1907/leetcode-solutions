@@ -67,6 +67,7 @@ README Topics & Statistics Refreshed
 | [0009-palindrome-number](https://github.com/parteek1907/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/parteek1907/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/parteek1907/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/parteek1907/leetcode-solutions/tree/master/0067-add-binary) |
 | [2235-add-two-integers](https://github.com/parteek1907/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/parteek1907/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/parteek1907/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -83,11 +84,13 @@ README Topics & Statistics Refreshed
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/parteek1907/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/parteek1907/leetcode-solutions/tree/master/0067-add-binary) |
 | [1108-defanging-an-ip-address](https://github.com/parteek1907/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [3110-score-of-a-string](https://github.com/parteek1907/leetcode-solutions/tree/master/3110-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/parteek1907/leetcode-solutions/tree/master/0067-add-binary) |
 | [3701-compute-alternating-sum](https://github.com/parteek1907/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 ## Trie
 |  |
@@ -97,4 +100,5 @@ README Topics & Statistics Refreshed
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/parteek1907/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/parteek1907/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
