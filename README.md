@@ -73,6 +73,7 @@ README Topics & Statistics Refreshed
 | [2235-add-two-integers](https://github.com/parteek1907/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/parteek1907/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/parteek1907/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/parteek1907/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/parteek1907/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/parteek1907/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/parteek1907/leetcode-solutions/tree/master/3945-digit-frequency-score) |
@@ -86,6 +87,7 @@ README Topics & Statistics Refreshed
 | [0169-majority-element](https://github.com/parteek1907/leetcode-solutions/tree/master/0169-majority-element) |
 | [1672-richest-customer-wealth](https://github.com/parteek1907/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/parteek1907/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/parteek1907/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/parteek1907/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/parteek1907/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/parteek1907/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
