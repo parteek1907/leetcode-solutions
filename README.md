@@ -143,5 +143,18 @@ README Topics & Statistics Refreshed
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/parteek1907/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/parteek1907/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Depth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/parteek1907/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/parteek1907/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/parteek1907/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
