@@ -88,6 +88,7 @@ README Topics & Statistics Refreshed
 | [0455-assign-cookies](https://github.com/parteek1907/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1672-richest-customer-wealth](https://github.com/parteek1907/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/parteek1907/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [2942-find-words-containing-character](https://github.com/parteek1907/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/parteek1907/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/parteek1907/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/parteek1907/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
@@ -99,6 +100,7 @@ README Topics & Statistics Refreshed
 | [0014-longest-common-prefix](https://github.com/parteek1907/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/parteek1907/leetcode-solutions/tree/master/0067-add-binary) |
 | [1108-defanging-an-ip-address](https://github.com/parteek1907/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
+| [2942-find-words-containing-character](https://github.com/parteek1907/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/parteek1907/leetcode-solutions/tree/master/3110-score-of-a-string) |
 ## Simulation
 |  |
