@@ -87,6 +87,7 @@ README Topics & Statistics Refreshed
 | [0014-longest-common-prefix](https://github.com/parteek1907/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/parteek1907/leetcode-solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/parteek1907/leetcode-solutions/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/parteek1907/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/parteek1907/leetcode-solutions/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/parteek1907/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/parteek1907/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -188,4 +189,8 @@ README Topics & Statistics Refreshed
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/parteek1907/leetcode-solutions/tree/master/0100-same-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/parteek1907/leetcode-solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
