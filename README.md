@@ -161,10 +161,12 @@ README Topics & Statistics Refreshed
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/parteek1907/leetcode-solutions/tree/master/0100-same-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/parteek1907/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/parteek1907/leetcode-solutions/tree/master/0100-same-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/parteek1907/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -178,4 +180,12 @@ README Topics & Statistics Refreshed
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/parteek1907/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/parteek1907/leetcode-solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/parteek1907/leetcode-solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
