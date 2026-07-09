@@ -119,6 +119,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | ------- |
 | [0029-divide-two-integers](https://github.com/parteek1907/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/parteek1907/leetcode-solutions/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/parteek1907/leetcode-solutions/tree/master/0190-reverse-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/parteek1907/leetcode-solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/parteek1907/leetcode-solutions/tree/master/0190-reverse-bits) |
 ## Sorting
 |  |
 | ------- |
