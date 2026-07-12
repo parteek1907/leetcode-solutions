@@ -45,6 +45,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0169-majority-element](https://github.com/parteek1907/leetcode-solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/parteek1907/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/parteek1907/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/parteek1907/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/parteek1907/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3945-digit-frequency-score](https://github.com/parteek1907/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -82,6 +83,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/parteek1907/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/parteek1907/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/parteek1907/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/parteek1907/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1672-richest-customer-wealth](https://github.com/parteek1907/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/parteek1907/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/parteek1907/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
@@ -157,6 +159,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0169-majority-element](https://github.com/parteek1907/leetcode-solutions/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/parteek1907/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/parteek1907/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/parteek1907/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/parteek1907/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting
 |  |
