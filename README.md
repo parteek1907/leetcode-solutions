@@ -218,4 +218,8 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | ------- |
 | [0326-power-of-three](https://github.com/parteek1907/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/parteek1907/leetcode-solutions/tree/master/0342-power-of-four) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/parteek1907/leetcode-solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
