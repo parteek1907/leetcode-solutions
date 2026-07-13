@@ -51,6 +51,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/parteek1907/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/parteek1907/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/parteek1907/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/parteek1907/leetcode-solutions/tree/master/0066-plus-one) |
@@ -216,10 +217,15 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/parteek1907/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/parteek1907/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/parteek1907/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/parteek1907/leetcode-solutions/tree/master/1291-sequential-digits) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/parteek1907/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
