@@ -186,11 +186,13 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/parteek1907/leetcode-solutions/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/parteek1907/leetcode-solutions/tree/master/0112-path-sum) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/parteek1907/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/parteek1907/leetcode-solutions/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/parteek1907/leetcode-solutions/tree/master/0112-path-sum) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/parteek1907/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -211,10 +213,12 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/parteek1907/leetcode-solutions/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/parteek1907/leetcode-solutions/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/parteek1907/leetcode-solutions/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/parteek1907/leetcode-solutions/tree/master/0112-path-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
