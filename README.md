@@ -76,6 +76,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/parteek1907/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/parteek1907/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/parteek1907/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/parteek1907/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3945-digit-frequency-score](https://github.com/parteek1907/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Array
 |  |
@@ -103,6 +104,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/parteek1907/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/parteek1907/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3701-compute-alternating-sum](https://github.com/parteek1907/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/parteek1907/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/parteek1907/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/parteek1907/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## String
@@ -127,6 +129,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0067-add-binary](https://github.com/parteek1907/leetcode-solutions/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/parteek1907/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [3701-compute-alternating-sum](https://github.com/parteek1907/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/parteek1907/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/parteek1907/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Trie
 |  |
@@ -161,6 +164,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0455-assign-cookies](https://github.com/parteek1907/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/parteek1907/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/parteek1907/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/parteek1907/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -174,6 +178,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [1288-remove-covered-intervals](https://github.com/parteek1907/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/parteek1907/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/parteek1907/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/parteek1907/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -253,4 +258,5 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/parteek1907/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/parteek1907/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/parteek1907/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
