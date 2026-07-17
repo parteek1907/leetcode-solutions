@@ -47,6 +47,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0383-ransom-note](https://github.com/parteek1907/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/parteek1907/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/parteek1907/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/parteek1907/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/parteek1907/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3945-digit-frequency-score](https://github.com/parteek1907/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -70,6 +71,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [2769-find-the-maximum-achievable-number](https://github.com/parteek1907/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3099-harshad-number](https://github.com/parteek1907/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/parteek1907/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3312-sorted-gcd-pair-queries](https://github.com/parteek1907/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/parteek1907/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/parteek1907/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/parteek1907/leetcode-solutions/tree/master/3516-find-closest-person) |
@@ -99,6 +101,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/parteek1907/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/parteek1907/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/parteek1907/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3312-sorted-gcd-pair-queries](https://github.com/parteek1907/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/parteek1907/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/parteek1907/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/parteek1907/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -149,6 +152,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | ------- |
 | [0069-sqrtx](https://github.com/parteek1907/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/parteek1907/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [3312-sorted-gcd-pair-queries](https://github.com/parteek1907/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/parteek1907/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/parteek1907/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
@@ -185,6 +189,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | ------- |
 | [0169-majority-element](https://github.com/parteek1907/leetcode-solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/parteek1907/leetcode-solutions/tree/master/0383-ransom-note) |
+| [3312-sorted-gcd-pair-queries](https://github.com/parteek1907/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Graph Theory
 |  |
 | ------- |
@@ -219,6 +224,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/parteek1907/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [3312-sorted-gcd-pair-queries](https://github.com/parteek1907/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/parteek1907/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Tree
 |  |
@@ -257,7 +263,12 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/parteek1907/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/parteek1907/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/parteek1907/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parteek1907/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/parteek1907/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
