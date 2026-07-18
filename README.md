@@ -65,6 +65,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0342-power-of-four](https://github.com/parteek1907/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/parteek1907/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [1323-maximum-69-number](https://github.com/parteek1907/leetcode-solutions/tree/master/1323-maximum-69-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/parteek1907/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/parteek1907/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/parteek1907/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/parteek1907/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -97,6 +98,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [1672-richest-customer-wealth](https://github.com/parteek1907/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/parteek1907/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/parteek1907/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/parteek1907/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/parteek1907/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/parteek1907/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/parteek1907/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -264,6 +266,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/parteek1907/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/parteek1907/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/parteek1907/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/parteek1907/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
