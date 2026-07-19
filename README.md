@@ -123,6 +123,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0171-excel-sheet-column-number](https://github.com/parteek1907/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/parteek1907/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/parteek1907/leetcode-solutions/tree/master/0383-ransom-note) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/parteek1907/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/parteek1907/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/parteek1907/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2937-make-three-strings-equal](https://github.com/parteek1907/leetcode-solutions/tree/master/2937-make-three-strings-equal) |
@@ -221,6 +222,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/parteek1907/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/parteek1907/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1323-maximum-69-number](https://github.com/parteek1907/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/parteek1907/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
@@ -279,4 +281,12 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/parteek1907/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/parteek1907/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/parteek1907/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
