@@ -93,6 +93,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0169-majority-element](https://github.com/parteek1907/leetcode-solutions/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/parteek1907/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/parteek1907/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [1260-shift-2d-grid](https://github.com/parteek1907/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/parteek1907/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/parteek1907/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1672-richest-customer-wealth](https://github.com/parteek1907/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -134,6 +135,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/parteek1907/leetcode-solutions/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/parteek1907/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/parteek1907/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [3701-compute-alternating-sum](https://github.com/parteek1907/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parteek1907/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -162,6 +164,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/parteek1907/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/parteek1907/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [3643-flip-square-submatrix-vertically](https://github.com/parteek1907/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/parteek1907/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
