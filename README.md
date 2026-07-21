@@ -130,6 +130,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [2937-make-three-strings-equal](https://github.com/parteek1907/leetcode-solutions/tree/master/2937-make-three-strings-equal) |
 | [2942-find-words-containing-character](https://github.com/parteek1907/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/parteek1907/leetcode-solutions/tree/master/3110-score-of-a-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/parteek1907/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/parteek1907/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
 |  |
@@ -260,6 +261,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/parteek1907/leetcode-solutions/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/parteek1907/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Linked List
 |  |
 | ------- |
