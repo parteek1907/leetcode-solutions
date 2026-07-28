@@ -139,6 +139,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [2942-find-words-containing-character](https://github.com/parteek1907/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/parteek1907/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/parteek1907/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/parteek1907/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/parteek1907/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
 |  |
@@ -201,6 +202,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [1288-remove-covered-intervals](https://github.com/parteek1907/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/parteek1907/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parteek1907/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/parteek1907/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/parteek1907/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/parteek1907/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parteek1907/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -314,4 +316,8 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parteek1907/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/parteek1907/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
