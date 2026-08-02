@@ -68,6 +68,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0486-predict-the-winner](https://github.com/parteek1907/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parteek1907/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/parteek1907/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/parteek1907/leetcode-solutions/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/parteek1907/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parteek1907/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/parteek1907/leetcode-solutions/tree/master/2235-add-two-integers) |
@@ -103,6 +104,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0486-predict-the-winner](https://github.com/parteek1907/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parteek1907/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/parteek1907/leetcode-solutions/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/parteek1907/leetcode-solutions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/parteek1907/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/parteek1907/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/parteek1907/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -276,6 +278,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | ------- |
 | [0118-pascals-triangle](https://github.com/parteek1907/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/parteek1907/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/parteek1907/leetcode-solutions/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/parteek1907/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/parteek1907/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
@@ -338,4 +341,5 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/parteek1907/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/parteek1907/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
