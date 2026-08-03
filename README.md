@@ -104,6 +104,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0486-predict-the-winner](https://github.com/parteek1907/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parteek1907/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/parteek1907/leetcode-solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/parteek1907/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/parteek1907/leetcode-solutions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/parteek1907/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/parteek1907/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -179,6 +180,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0367-valid-perfect-square](https://github.com/parteek1907/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/parteek1907/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/parteek1907/leetcode-solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/parteek1907/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [3312-sorted-gcd-pair-queries](https://github.com/parteek1907/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/parteek1907/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/parteek1907/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
