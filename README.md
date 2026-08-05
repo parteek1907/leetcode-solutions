@@ -97,6 +97,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0001-two-sum](https://github.com/parteek1907/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/parteek1907/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/parteek1907/leetcode-solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/parteek1907/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/parteek1907/leetcode-solutions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/parteek1907/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/parteek1907/leetcode-solutions/tree/master/0169-majority-element) |
@@ -178,6 +179,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/parteek1907/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/parteek1907/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/parteek1907/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/parteek1907/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
