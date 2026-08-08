@@ -71,6 +71,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0628-maximum-product-of-three-numbers](https://github.com/parteek1907/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/parteek1907/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/parteek1907/leetcode-solutions/tree/master/0877-stone-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/parteek1907/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/parteek1907/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/parteek1907/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parteek1907/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -310,6 +311,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/parteek1907/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/parteek1907/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
