@@ -195,6 +195,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | ------- |
 | [0035-search-insert-position](https://github.com/parteek1907/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/parteek1907/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/parteek1907/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/parteek1907/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/parteek1907/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/parteek1907/leetcode-solutions/tree/master/0704-binary-search) |
@@ -342,6 +343,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/parteek1907/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/parteek1907/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Stack
 |  |
