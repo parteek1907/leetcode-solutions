@@ -66,6 +66,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0069-sqrtx](https://github.com/parteek1907/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/parteek1907/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/parteek1907/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0204-count-primes](https://github.com/parteek1907/leetcode-solutions/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/parteek1907/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/parteek1907/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/parteek1907/leetcode-solutions/tree/master/0367-valid-perfect-square) |
@@ -109,6 +110,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0066-plus-one](https://github.com/parteek1907/leetcode-solutions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/parteek1907/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/parteek1907/leetcode-solutions/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/parteek1907/leetcode-solutions/tree/master/0204-count-primes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/parteek1907/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/parteek1907/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/parteek1907/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -315,6 +317,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/parteek1907/leetcode-solutions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/parteek1907/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/parteek1907/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/parteek1907/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -331,6 +334,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/parteek1907/leetcode-solutions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parteek1907/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/parteek1907/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/parteek1907/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -374,4 +378,16 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/parteek1907/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/parteek1907/leetcode-solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/parteek1907/leetcode-solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/parteek1907/leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
