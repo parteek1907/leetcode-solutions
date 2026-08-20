@@ -76,6 +76,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0728-self-dividing-numbers](https://github.com/parteek1907/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/parteek1907/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/parteek1907/leetcode-solutions/tree/master/0877-stone-game) |
+| [1266-minimum-time-visiting-all-points](https://github.com/parteek1907/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/parteek1907/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/parteek1907/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/parteek1907/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -120,6 +121,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0875-koko-eating-bananas](https://github.com/parteek1907/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/parteek1907/leetcode-solutions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/parteek1907/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1266-minimum-time-visiting-all-points](https://github.com/parteek1907/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/parteek1907/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/parteek1907/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parteek1907/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -380,6 +382,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/parteek1907/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1266-minimum-time-visiting-all-points](https://github.com/parteek1907/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Primality Test
 |  |
 | ------- |
