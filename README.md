@@ -81,6 +81,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [1266-minimum-time-visiting-all-points](https://github.com/parteek1907/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/parteek1907/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/parteek1907/leetcode-solutions/tree/master/1323-maximum-69-number) |
+| [1486-xor-operation-in-an-array](https://github.com/parteek1907/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/parteek1907/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parteek1907/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/parteek1907/leetcode-solutions/tree/master/2235-add-two-integers) |
@@ -197,6 +198,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0067-add-binary](https://github.com/parteek1907/leetcode-solutions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/parteek1907/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/parteek1907/leetcode-solutions/tree/master/0342-power-of-four) |
+| [1486-xor-operation-in-an-array](https://github.com/parteek1907/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/parteek1907/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/parteek1907/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/parteek1907/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
