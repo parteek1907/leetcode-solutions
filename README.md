@@ -403,4 +403,8 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/parteek1907/leetcode-solutions/tree/master/0204-count-primes) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/parteek1907/leetcode-solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
