@@ -47,6 +47,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0242-valid-anagram](https://github.com/parteek1907/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/parteek1907/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/parteek1907/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1189-maximum-number-of-balloons](https://github.com/parteek1907/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/parteek1907/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/parteek1907/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parteek1907/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -172,6 +173,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/parteek1907/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/parteek1907/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/parteek1907/leetcode-solutions/tree/master/1154-day-of-the-year) |
+| [1189-maximum-number-of-balloons](https://github.com/parteek1907/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/parteek1907/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2937-make-three-strings-equal](https://github.com/parteek1907/leetcode-solutions/tree/master/2937-make-three-strings-equal) |
 | [2942-find-words-containing-character](https://github.com/parteek1907/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -262,6 +264,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | ------- |
 | [0169-majority-element](https://github.com/parteek1907/leetcode-solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/parteek1907/leetcode-solutions/tree/master/0383-ransom-note) |
+| [1189-maximum-number-of-balloons](https://github.com/parteek1907/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/parteek1907/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parteek1907/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/parteek1907/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
