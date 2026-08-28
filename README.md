@@ -71,6 +71,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0168-excel-sheet-column-title](https://github.com/parteek1907/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/parteek1907/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/parteek1907/leetcode-solutions/tree/master/0204-count-primes) |
+| [0292-nim-game](https://github.com/parteek1907/leetcode-solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/parteek1907/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/parteek1907/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/parteek1907/leetcode-solutions/tree/master/0367-valid-perfect-square) |
@@ -390,6 +391,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/parteek1907/leetcode-solutions/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/parteek1907/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/parteek1907/leetcode-solutions/tree/master/0877-stone-game) |
 ## Geometry
@@ -413,4 +415,20 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/parteek1907/leetcode-solutions/tree/master/0595-big-countries) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/parteek1907/leetcode-solutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/parteek1907/leetcode-solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/parteek1907/leetcode-solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/parteek1907/leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
