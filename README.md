@@ -72,6 +72,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0171-excel-sheet-column-number](https://github.com/parteek1907/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/parteek1907/leetcode-solutions/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/parteek1907/leetcode-solutions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/parteek1907/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/parteek1907/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/parteek1907/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/parteek1907/leetcode-solutions/tree/master/0367-valid-perfect-square) |
@@ -419,6 +420,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/parteek1907/leetcode-solutions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/parteek1907/leetcode-solutions/tree/master/0319-bulb-switcher) |
 ## Minimax
 |  |
 | ------- |
