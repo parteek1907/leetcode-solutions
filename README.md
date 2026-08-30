@@ -65,6 +65,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0002-add-two-numbers](https://github.com/parteek1907/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/parteek1907/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/parteek1907/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/parteek1907/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/parteek1907/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/parteek1907/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/parteek1907/leetcode-solutions/tree/master/0069-sqrtx) |
@@ -331,6 +332,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/parteek1907/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/parteek1907/leetcode-solutions/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/parteek1907/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/parteek1907/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/parteek1907/leetcode-solutions/tree/master/0486-predict-the-winner) |
