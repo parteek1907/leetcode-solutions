@@ -1,11 +1,12 @@
-bool isPerfectSquare(int num){
-   long x = num;
-    while (x * x > num) {
-        x = (x + (num / x)) / 2;
+bool isPerfectSquare(int num) 
+{
+    long x = 1;
+    while (x * x < num) {
+        x++;
     }
-    if ((x * x) == num) {
+    if (x * x == num) {
         return true;
-    } else {
-        return false;
     }
+    
+    return false;
 }
