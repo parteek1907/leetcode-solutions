@@ -77,6 +77,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0326-power-of-three](https://github.com/parteek1907/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/parteek1907/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/parteek1907/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/parteek1907/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/parteek1907/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/parteek1907/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parteek1907/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -207,6 +208,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0067-add-binary](https://github.com/parteek1907/leetcode-solutions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/parteek1907/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/parteek1907/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/parteek1907/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/parteek1907/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/parteek1907/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/parteek1907/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
