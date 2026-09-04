@@ -117,6 +117,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parteek1907/leetcode-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/parteek1907/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/parteek1907/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/parteek1907/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/parteek1907/leetcode-solutions/tree/master/0035-search-insert-position) |
@@ -216,6 +217,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/parteek1907/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/parteek1907/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/parteek1907/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/parteek1907/leetcode-solutions/tree/master/0278-first-bad-version) |
@@ -245,6 +247,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/parteek1907/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/parteek1907/leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/parteek1907/leetcode-solutions/tree/master/0190-reverse-bits) |
 ## Sorting
