@@ -130,6 +130,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 | [0455-assign-cookies](https://github.com/parteek1907/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/parteek1907/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parteek1907/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/parteek1907/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/parteek1907/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/parteek1907/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/parteek1907/leetcode-solutions/tree/master/0877-stone-game) |
@@ -194,6 +195,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/parteek1907/leetcode-solutions/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/parteek1907/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/parteek1907/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/parteek1907/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [3701-compute-alternating-sum](https://github.com/parteek1907/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
@@ -380,6 +382,7 @@ A curated collection of my **LeetCode** solutions, automatically synchronized us
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/parteek1907/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/parteek1907/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
